@@ -1,4 +1,4 @@
-### Hi there My Name is Timofey <img src="./greeting.gif" alt="👋" width="30px">
+### Hi there My Name is Kostya <img src="./greeting.gif" alt="👋" width="30px">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=megahoma&theme=dark&show_icons=true&count_private=true&hide_border=true&card_width=450&line_height=28&hide_border=1&)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=megahoma&theme=dark&layout=compact&hide_border=true&langs_count=10)
