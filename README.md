@@ -5,7 +5,7 @@
 
 ## Contact
 
-<a href="https://t.me/EalsyCoD">![](https://img.shields.io/badge/Telegram-EalsyJS-informational?style=flat&logo=telegram&logoColor=26A5E4&color=26A5E4)</a>
+<a href="https://t.me/EalsyJS">![](https://img.shields.io/badge/Telegram-EalsyJS-informational?style=flat&logo=telegram&logoColor=26A5E4&color=26A5E4)</a>
 
 <!--
 **EalsyCoD/EalsyCoD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
